@@ -1,10 +1,10 @@
 formatversion: 1.0.0
 
 info:
-  name: test1111
-  summary: One line summary of test1111
+  name: <template_name>
+  summary: One line summary of <template_name>
   description: |
-    In depth description of test1111
+    In depth description of <template_name>
     With lots of details.
   authors: ['Someone <b@someone.com> (http://someone.tumblr.com/)']
   version: 1.0.0
@@ -43,7 +43,7 @@ modules:
   include: '**/*.lua'
   exclude: ['*_test.lua', '*_spec.lua']
 
-services:
+services: # Also applies for service configuration using .yaml format.
   location: services
   include: '**/*.lua'
   exclude: ['*_test.lua', '*_spec.lua']
