@@ -1,12 +1,12 @@
 formatversion: 1.0.0
 
 info:
-  name: <template_name>
-  summary: One line summary of <template_name>
+  name: winnie need a lot of repo to test
+  summary: One line summary of test
   description: |
-    In depth description of <template_name>
+    In depth description of test
     With lots of details.
-  authors: ['Someone <b@someone.com> (http://someone.tumblr.com/)']
+  authors: ['winnieli+123@exosite.com']
   version: 1.0.0
 
 ####
